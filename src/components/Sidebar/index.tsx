@@ -1,6 +1,5 @@
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
-import { useMetamaskStore } from '../../store/metamask';
 
 import {
   FiClock,
